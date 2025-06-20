@@ -287,7 +287,7 @@ The following diagram illustrates the complete pipeline for registering the broa
 ### 3D Pitch View
 ![3D Sonuç](result/result3D.jpg)
 
-*(Adjust image paths/names as needed.)*
+
 
 ---
 
@@ -298,6 +298,9 @@ The following diagram illustrates the complete pipeline for registering the broa
 | Cameras Required | Multiple       | Single Frame           |
 | Equipment Cost   | High           | low
 ---
+
+The system does not yet work to give good results in every picture, I think it is due to the insufficiency of the data set, it can give different results according to each angle.
+
 ## future plan
 detection from videos 
 adaptation to non-professional leagues
