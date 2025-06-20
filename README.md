@@ -245,6 +245,11 @@ This image shows a comparison between the original frame and the perturbed templ
 ![Loss Surface Prediction Example](model/sportsfield_release/out/trained_loss_surface/iou_compare_epoch_16.png)
 
 These two models run sequentially: the Initial Guess provides a starting homography, then Loss Surface scores and selects the best adjustment, yielding a precise field registration.
+### Homography Pipeline Summary
+
+The following diagram illustrates the complete pipeline for registering the broadcast image with the 2D field template.
+
+![Homography Pipeline](model/sportsfield_release/summary.png)
 
 ### Team Classification
 
