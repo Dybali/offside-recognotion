@@ -93,8 +93,10 @@ offside--detection/
 │       ├── icons/                  # Icon images
 │       ├── images/                 # GUI button & logo images
 │       └── offside/                # Layout files
-├── mainGUI.py                      # Launch GUI application
+
+├──mainGUI.py                      # Launch GUI application
 ├── offside.py                      # Core offside detection pipeline (CLI)
+
 ├── model/                          # All model code & weights
 │   ├── sportsfield_release/        # Homography models (WACV2020 adaptation)
 │   │   ├── __pycache__/            # Python cache
@@ -126,6 +128,45 @@ offside--detection/
 └── README.md                       # ← You are here here
 ```
 
+offside--detection/
+├── GUI/                            # Graphical interface assets
+│   └── src/                        # UI code and resources
+│       ├── elements/               # Custom widgets
+│       ├── fonts/                  # Font files
+│       ├── icons/                  # Icon images
+│       ├── images/                 # GUI button & logo images
+│       └── offside/                # Layout files
+├── mainGUI.py                      # Launch GUI application
+├── offside.py                      # Core offside detection pipeline (CLI)
+├── model/                          # All model code & weights
+│   ├── sportsfield_release/        # Homography models (WACV2020 adaptation)
+│   │   ├── __pycache__/            # Python cache
+│   │   ├── data/                   # Field mask and homography files
+│   │   ├── datasets/               # Data loading and preprocessing scripts
+│   │   │   └── aligned_dataset.py
+│   │   ├── models/                 # Model definitions
+│   │   │   ├── base_model.py
+│   │   │   ├── init_guesser.py
+│   │   │   ├── loss_surface.py
+│   │   │   └── resnet.py
+│   │   ├── options/                # Training options and configs
+│   │   ├── out/                    # Pretrained model weights
+│   │   │   ├── trained_init_guess
+│   │   │   └── trained_loss_surface
+│   │   ├── train/                  # Training scripts
+│   │   │   ├── train_init_guesser.py  # Training script for Initial Guess model
+│   │   │   └── train_loss_surface.py  # Training script for Loss Surface model
+│   │   ├── utils/                  # Helper functions (warp, metrics, augmentations)
+│   │   ├── world_cup_data_augmentation/  # Additional augmentation data
+│   │   ├── calculateHomography.py  # Script to compute homography matrices
+│   │   └── test_end2end.py         # End-to-end homography evaluation
+│   └── teamClassification/         # Team classification by jersey color
+│       ├── team_classification.py
+│       └── weights/                # YOLO & KMeans trained weights
+├── samples/                        # Example input frames
+├── result/                         # Script outputs (2D/3D visualizations)
+├── requirements.txt                # Python dependencies                      
+└── README.md 
 ---
 
 ## ⚙️ Installation
