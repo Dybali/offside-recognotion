@@ -1,0 +1,6 @@
+train: C:/Users/user/Downloads/YOLOv8/Dataset/train/images
+val: C:/Users/user/Downloads/YOLOv8/Dataset/valid/images
+test: C:/Users/user/Downloads/YOLOv8/Dataset/test/images
+
+nc: 4
+names: ['ball', 'goalkeeper', 'player', 'referee']

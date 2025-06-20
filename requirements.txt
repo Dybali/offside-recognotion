@@ -1,0 +1,13 @@
+# Homography & Core
+torch
+numpy
+tqdm
+Pillow
+imageio
+matplotlib
+torchvision
+# Team Classification (YOLOv8 & KMeans)
+ultralytics
+scikit-learn
+opencv-python 
+tkinter

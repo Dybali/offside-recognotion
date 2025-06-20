@@ -1,0 +1,4 @@
+{
+    "world_cup_raw_dir": "../data/raw",
+    "world_cup_template_path": "soccer_field_template/world_cup_template.png"
+}

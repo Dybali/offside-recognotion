@@ -1,0 +1,9 @@
+{
+  "world_cup": {
+    "train_dataset": "C:/Users/user/Downloads/lastdance/sportsfield_release/data/world_cup_train.h5",
+    "val_dataset": "C:/Users/user/Downloads/lastdance/sportsfield_release/data/world_cup_val.h5",
+    "test_dataset": "C:/Users/user/Downloads/lastdance/sportsfield_release/data/world_cup_test.h5",
+    "template_path": "C:/Users/user/Downloads/lastdance/sportsfield_release/data/world_cup_template.png"
+  },
+  "out": "C:/Users/user/Pictures/Offside-Detection/model/sportsfield_release/out"
+}

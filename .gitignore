@@ -1,0 +1,35 @@
+# Large model files
+model/sportsfield_release/out/trained_init_guess/checkpoint.pth.tar
+model/sportsfield_release/out/trained_loss_surface/checkpoint.pth.tar
+model/teamClassification/YOLOv8/yolov8x.pt
+*.h5
+*.pt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+*.py[cod]
+*.pyo
+*.egg-info/
+__pycache__/
+.env
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDE files
+.idea/
+.vscode/
+
+model/sportsfield_release/out/pretrained_init_guess/checkpoint.pth.tar
+model/sportsfield_release/out/pretrained_loss_surface/checkpoint.pth.tar 

@@ -1,0 +1,920 @@
+Epoch 1:
+Ortalama Mesafe: 0.97 piksel
+Maksimum Hata: 1.30 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 1:
+Ortalama Mesafe: 0.86 piksel
+Maksimum Hata: 1.13 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 2:
+Ortalama Mesafe: 0.88 piksel
+Maksimum Hata: 1.21 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 2:
+Ortalama Mesafe: 0.84 piksel
+Maksimum Hata: 1.10 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 3:
+Ortalama Mesafe: 0.82 piksel
+Maksimum Hata: 1.18 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 3:
+Ortalama Mesafe: 0.81 piksel
+Maksimum Hata: 1.06 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 4:
+Ortalama Mesafe: 0.75 piksel
+Maksimum Hata: 1.14 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 4:
+Ortalama Mesafe: 0.77 piksel
+Maksimum Hata: 1.00 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 5:
+Ortalama Mesafe: 0.69 piksel
+Maksimum Hata: 1.13 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 5:
+Ortalama Mesafe: 0.73 piksel
+Maksimum Hata: 0.95 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 6:
+Ortalama Mesafe: 0.64 piksel
+Maksimum Hata: 1.09 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 6:
+Ortalama Mesafe: 0.69 piksel
+Maksimum Hata: 0.93 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 7:
+Ortalama Mesafe: 0.60 piksel
+Maksimum Hata: 1.05 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 7:
+Ortalama Mesafe: 0.66 piksel
+Maksimum Hata: 0.92 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 8:
+Ortalama Mesafe: 0.56 piksel
+Maksimum Hata: 0.99 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 8:
+Ortalama Mesafe: 0.63 piksel
+Maksimum Hata: 0.91 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 9:
+Ortalama Mesafe: 0.54 piksel
+Maksimum Hata: 0.98 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 9:
+Ortalama Mesafe: 0.60 piksel
+Maksimum Hata: 0.90 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 10:
+Ortalama Mesafe: 0.51 piksel
+Maksimum Hata: 0.94 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 10:
+Ortalama Mesafe: 0.58 piksel
+Maksimum Hata: 0.89 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 11:
+Ortalama Mesafe: 0.49 piksel
+Maksimum Hata: 0.96 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 11:
+Ortalama Mesafe: 0.56 piksel
+Maksimum Hata: 0.88 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 12:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.93 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 12:
+Ortalama Mesafe: 0.54 piksel
+Maksimum Hata: 0.86 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 13:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.92 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 13:
+Ortalama Mesafe: 0.53 piksel
+Maksimum Hata: 0.85 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 14:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.93 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 14:
+Ortalama Mesafe: 0.52 piksel
+Maksimum Hata: 0.84 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 15:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.90 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 15:
+Ortalama Mesafe: 0.51 piksel
+Maksimum Hata: 0.83 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 16:
+Ortalama Mesafe: 0.43 piksel
+Maksimum Hata: 0.90 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 16:
+Ortalama Mesafe: 0.50 piksel
+Maksimum Hata: 0.82 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 17:
+Ortalama Mesafe: 0.44 piksel
+Maksimum Hata: 0.88 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 17:
+Ortalama Mesafe: 0.49 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 18:
+Ortalama Mesafe: 0.43 piksel
+Maksimum Hata: 0.89 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 18:
+Ortalama Mesafe: 0.49 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 19:
+Ortalama Mesafe: 0.43 piksel
+Maksimum Hata: 0.87 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 19:
+Ortalama Mesafe: 0.48 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 20:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.84 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 20:
+Ortalama Mesafe: 0.48 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 21:
+Ortalama Mesafe: 0.41 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 21:
+Ortalama Mesafe: 0.48 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 22:
+Ortalama Mesafe: 0.41 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 22:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.80 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 23:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 23:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.80 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 24:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.85 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 24:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 25:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.83 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 25:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 26:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.83 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 26:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 27:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.82 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 27:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 28:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 28:
+Ortalama Mesafe: 0.47 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 29:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.81 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 29:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 30:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 30:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 31:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.80 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 31:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 32:
+Ortalama Mesafe: 0.37 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 32:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 33:
+Ortalama Mesafe: 0.37 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 33:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 34:
+Ortalama Mesafe: 0.36 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 34:
+Ortalama Mesafe: 0.46 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 35:
+Ortalama Mesafe: 0.36 piksel
+Maksimum Hata: 0.73 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 35:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 36:
+Ortalama Mesafe: 0.35 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 36:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 37:
+Ortalama Mesafe: 0.35 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 37:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 38:
+Ortalama Mesafe: 0.35 piksel
+Maksimum Hata: 0.73 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 38:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 39:
+Ortalama Mesafe: 0.34 piksel
+Maksimum Hata: 0.73 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 39:
+Ortalama Mesafe: 0.45 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 40:
+Ortalama Mesafe: 0.34 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 40:
+Ortalama Mesafe: 0.44 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 41:
+Ortalama Mesafe: 0.34 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 41:
+Ortalama Mesafe: 0.44 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 42:
+Ortalama Mesafe: 0.33 piksel
+Maksimum Hata: 0.75 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 42:
+Ortalama Mesafe: 0.44 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 43:
+Ortalama Mesafe: 0.33 piksel
+Maksimum Hata: 0.70 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 43:
+Ortalama Mesafe: 0.43 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 44:
+Ortalama Mesafe: 0.31 piksel
+Maksimum Hata: 0.70 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 44:
+Ortalama Mesafe: 0.43 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 45:
+Ortalama Mesafe: 0.32 piksel
+Maksimum Hata: 0.68 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 45:
+Ortalama Mesafe: 0.43 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 46:
+Ortalama Mesafe: 0.31 piksel
+Maksimum Hata: 0.69 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 46:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 47:
+Ortalama Mesafe: 0.31 piksel
+Maksimum Hata: 0.68 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 47:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 48:
+Ortalama Mesafe: 0.31 piksel
+Maksimum Hata: 0.70 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 48:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 49:
+Ortalama Mesafe: 0.30 piksel
+Maksimum Hata: 0.65 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 49:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 50:
+Ortalama Mesafe: 0.30 piksel
+Maksimum Hata: 0.66 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 50:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 51:
+Ortalama Mesafe: 0.29 piksel
+Maksimum Hata: 0.67 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 51:
+Ortalama Mesafe: 0.42 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 52:
+Ortalama Mesafe: 0.29 piksel
+Maksimum Hata: 0.69 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 52:
+Ortalama Mesafe: 0.41 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 53:
+Ortalama Mesafe: 0.28 piksel
+Maksimum Hata: 0.65 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 53:
+Ortalama Mesafe: 0.41 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 54:
+Ortalama Mesafe: 0.28 piksel
+Maksimum Hata: 0.60 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 54:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 55:
+Ortalama Mesafe: 0.27 piksel
+Maksimum Hata: 0.66 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 55:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 56:
+Ortalama Mesafe: 0.26 piksel
+Maksimum Hata: 0.62 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 56:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 57:
+Ortalama Mesafe: 0.27 piksel
+Maksimum Hata: 0.66 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 57:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 58:
+Ortalama Mesafe: 0.26 piksel
+Maksimum Hata: 0.67 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 58:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 59:
+Ortalama Mesafe: 0.25 piksel
+Maksimum Hata: 0.61 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 59:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 60:
+Ortalama Mesafe: 0.25 piksel
+Maksimum Hata: 0.59 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 60:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 61:
+Ortalama Mesafe: 0.24 piksel
+Maksimum Hata: 0.60 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 61:
+Ortalama Mesafe: 0.40 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 62:
+Ortalama Mesafe: 0.24 piksel
+Maksimum Hata: 0.56 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 62:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 63:
+Ortalama Mesafe: 0.23 piksel
+Maksimum Hata: 0.60 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 63:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 64:
+Ortalama Mesafe: 0.25 piksel
+Maksimum Hata: 0.62 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 64:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 65:
+Ortalama Mesafe: 0.23 piksel
+Maksimum Hata: 0.57 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 65:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 66:
+Ortalama Mesafe: 0.23 piksel
+Maksimum Hata: 0.60 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 66:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 67:
+Ortalama Mesafe: 0.22 piksel
+Maksimum Hata: 0.56 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 67:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 68:
+Ortalama Mesafe: 0.22 piksel
+Maksimum Hata: 0.53 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 68:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 69:
+Ortalama Mesafe: 0.22 piksel
+Maksimum Hata: 0.54 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 69:
+Ortalama Mesafe: 0.39 piksel
+Maksimum Hata: 0.79 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 70:
+Ortalama Mesafe: 0.21 piksel
+Maksimum Hata: 0.52 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 70:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 71:
+Ortalama Mesafe: 0.21 piksel
+Maksimum Hata: 0.50 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 71:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 72:
+Ortalama Mesafe: 0.21 piksel
+Maksimum Hata: 0.52 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 72:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 73:
+Ortalama Mesafe: 0.20 piksel
+Maksimum Hata: 0.48 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 73:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.76 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 74:
+Ortalama Mesafe: 0.21 piksel
+Maksimum Hata: 0.56 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 74:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 75:
+Ortalama Mesafe: 0.20 piksel
+Maksimum Hata: 0.49 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 75:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 76:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.47 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 76:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 77:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.49 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 77:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 78:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.49 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 78:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 79:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.52 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 79:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 80:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.49 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 80:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 81:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.48 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 81:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 82:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.47 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 82:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.78 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 83:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.44 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 83:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 84:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.48 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 84:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 85:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.49 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 85:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 86:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.47 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 86:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 87:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.45 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 87:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 88:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.47 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 88:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 89:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.47 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 89:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 90:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.49 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 90:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 91:
+Ortalama Mesafe: 0.19 piksel
+Maksimum Hata: 0.46 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 91:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 92:
+Ortalama Mesafe: 0.18 piksel
+Maksimum Hata: 0.48 piksel
+Dogruluk Orani: 100.00%
+
+Epoch 92:
+Ortalama Mesafe: 0.38 piksel
+Maksimum Hata: 0.77 piksel
+Dogruluk Orani: 100.00%
+
