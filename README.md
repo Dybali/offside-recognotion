@@ -86,6 +86,8 @@ Runs on Python 3.10+, requires only one video frame per decision, and can replac
 ## 📂 Repo Structure
 
 
+
+```---
 offside--detection/
 ├── GUI/                            # Graphical interface assets
 │   └── src/                        # UI code and resources
@@ -124,11 +126,9 @@ offside--detection/
 ├── samples/                        # Example input frames
 ├── result/                         # Script outputs (2D/3D visualizations)
 ├── requirements.txt                # Python dependencies                      
-└── README.md 
----
-
+└── README.md        
 ## ⚙️ Installation
-
+```
 1. **Clone the repo**
 
    ```bash
